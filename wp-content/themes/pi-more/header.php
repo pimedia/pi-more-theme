@@ -54,7 +54,7 @@
 						wp_nav_menu(
 							array(
 								'container_id' => 'primary-menu',
-								'container_class' => ' mr-4      mt-4 p-4  lg:mt-0 lg:p-0 lg:bg-transparent lg:block',
+								'container_class' => ' mr-4 mt-4 p-4  lg:mt-0 lg:p-0 lg:bg-transparent lg:block',
 								'menu_class' => 'lg:flex lg:-mx-4 ',
 								'theme_location' => 'primary',
 								'li_class' => 'pb-5 pr-3 mr-4  pl-1 mr-1 text-left',

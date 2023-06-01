@@ -73,12 +73,12 @@ Thumbs.db
 # ignore packaged files
 *.7z
 *.dmg
-*.gz
+#*.gz
 *.iso
 *.jar
 *.rar
 *.tar
-*.zip
+#*.zip
 
 # -------------------------
 # BEGIN Whitelisted Files
