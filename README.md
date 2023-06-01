@@ -38,3 +38,10 @@ WordPress Database is in the 'db' direcotry.
 user: admin
 password: admin
 You can change the password from Users after logging in.
+
+## Website Structure
+
+* Footer areas are added via footer widgets
+* Menus are added Primary, Footer and Login Menus. Footer area menus are separately added in their respective menus.
+* Landing page content has been added via reuseable blocks which can be copied for new pages and updated.
+* Social media icons are added via widget and their linsk can be added there.
