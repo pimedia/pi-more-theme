@@ -6,20 +6,22 @@ This WordPress landign pages theme is based on TailPress boilerplate theme
 ## Recommended Plugins to install
 
 ### Classic Editor
+To edit code, it is easier and cleaner way to edit code using classic editor.
 
 ### CookieYes | GDPR Cookie Consent
+A simple way to show your website complies with the EU Cookie Law / GDPR.
 
 ### Wordfence Security
+To make website secure and scaning malware.
 
 ### Yoast SEO
 For SEO
 
 ### Site Kit by Google
-
 For analytics and search console
 
 ### WP Rocket - paid
-To increase website speed
+To increase website speed and site optimisation.
 
 ### Smush Pro - paid
 Plugin to reduce image file sizes, improve performance and boost your SEO 
