@@ -1,7 +1,7 @@
-# WordPress Task - Theme PI More
+# WordPress Theme - PI More
 WordPress Landing Pages theme with Tailwind CSS
 
-This WordPress landign pages theme is based on TailPress boilerplate theme
+This WordPress landing pages theme is based on TailPress boilerplate theme
 
 ## Recommended Plugins to install
 
